@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(163, 193, 240);
+}
+
+Body{
+  background-image: url("black\ background.jp.webp");
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+
+}
+h1 {
+  color: rgb(242, 197, 118);
+  margin-left: 20px;
+}
+h2 {
+  color: ghostwhite;
+}
+h3 {
+  color: ghostwhite;
+}
+
+
